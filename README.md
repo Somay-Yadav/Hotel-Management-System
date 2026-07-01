@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 Make sure MySQL is installed and running on your system.
 
-Create a `.env` file in the project folder and add your MySQL details:
+Rename `.env.example` file to `.env` file in the project folder and add your MySQL details:
 
 MYSQL_HOST=localhost
 
@@ -107,6 +107,23 @@ This project helped me practice:
 - Database management
 - Environment variable handling
 - Building real-world projects
+
+## 🔮 Future Improvements
+
+Some improvements planned for future versions:
+
+- Add a graphical user interface (GUI) using Tkinter or PyQt
+- Add employee/staff management system
+- Add online room booking feature
+- Add customer registration and profile management
+- Generate downloadable PDF bills
+- Add advanced search and filtering options
+- Improve security with encrypted passwords
+- Add user roles and permissions (Admin/Staff)
+- Add email confirmation for bookings
+- Create a web-based version using Flask/Django
+- Improve database design and optimization
+- Add dashboard with hotel statistics and reports
 
 ## 👨‍💻 Author
 
